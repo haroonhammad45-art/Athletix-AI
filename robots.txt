@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://athletix.ai/sitemap.xml
