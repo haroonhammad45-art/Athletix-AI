@@ -1,0 +1,13 @@
+{
+  "name": "Athletix AI — Performance System",
+  "short_name": "Athletix AI",
+  "description": "Your personal AI performance system for training, recovery and progress.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#07090f",
+  "theme_color": "#07090f",
+  "orientation": "portrait-primary",
+  "icons": [
+    {"src": "athletix-logo.png", "sizes": "1024x1024", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
